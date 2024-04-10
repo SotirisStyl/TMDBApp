@@ -1,1 +1,2 @@
-# TMDBApp
+# TMDB App in Flutter
+Using Flutter implemented an app that pulls movies from an API showing movies and TV series from all pages, including a password page, navigation throughout pages, automatically changing the theme when the battery drops down to 10% to dark mode, and showing popular movies and shows, upcoming movies, and top-rated movies and shows, and adding tv shows and movies to the firebase. If you would like to try the firebase you would need to create one at (https://console.firebase.google.com/u/0/) and add it to the project.  
